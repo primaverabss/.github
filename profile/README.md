@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/primavera.png">
+  <img src="https://productpddocumentationsa.blob.core.windows.net/assets/primavera.png">
 </p>
 
 
