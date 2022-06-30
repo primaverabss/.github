@@ -18,5 +18,4 @@ Saiba mais sobre o Grupo Primavera [aqui](www.grupoprimavera.com).
 [![image](https://img.shields.io/badge/Facebook-0E8EF1?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/primaverabss)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/primavera.bss/)
 
-  
 </div>
