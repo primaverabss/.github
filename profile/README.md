@@ -4,7 +4,7 @@
 
 
 # 🏢 PRIMAVERA
-Somos parte do @grupoprimavera, o maior grupo ibérico de soluções de gestão, que reúne as melhores empresas de tecnologia portuguesas e espanholas com um propósito muito claro: **desenvolver soluções que ajudem os negócios a crescer**. 
+Somos parte do [@grupoprimavera](https://github.com/grupoprimavera), o maior grupo ibérico de soluções de gestão, que reúne as melhores empresas de tecnologia portuguesas e espanholas com um propósito muito claro: **desenvolver soluções que ajudem os negócios a crescer**. 
 
 Saiba mais sobre o Grupo Primavera [aqui](www.grupoprimavera.com).
 
