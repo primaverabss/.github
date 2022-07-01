@@ -10,7 +10,7 @@ Saiba mais sobre o Grupo Primavera [aqui](www.grupoprimavera.com).
 
 ### Contatos
 📩 <a href="mailto:swe@primaverabss.com">swe@primaverabss.com</a> <br>
-💻 <a href="https://www.primaverabss.com">primaverabss.com</a> <br>
+:link: <a href="https://www.primaverabss.com">primaverabss.com</a> <br>
 
 <div align="center">
 
